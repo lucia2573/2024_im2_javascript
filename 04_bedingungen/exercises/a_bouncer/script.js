@@ -17,3 +17,20 @@
 * diese Anleitung zur Hilfe (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date?retiredLocale=de)
 * oder arbeite mit KI.
 * */
+
+let meinAlter = 15;
+if (meinAlter >= 18) {
+    console.log ('Yeah, volljährig - kauf was du willst.');
+} else if (mein Alter >= 16) {
+    console.log ('Du bist zu jung für Schnaps.');
+} else {
+    console.log ('Du bist zu jung um Alkohol zu kaufen.');
+}
+
+if (meinAlter < 16) {
+    console.log ('Du bist zu jung um Alkohol zu kaufen.');
+}  else if (meinAlter < 18) {
+    console.log ('Du bist zu jung für Schnaps.');
+}  else {
+    console.log ('Yeah, volljährig - kauf was du willst.');
+}

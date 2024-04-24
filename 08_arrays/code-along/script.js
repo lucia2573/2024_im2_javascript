@@ -1,3 +1,59 @@
+let wg = [`Simon`, `Aglaja`, `Lea`, `Wolfgang`];
+console.log(wg);
+wg.push (`Jan`);
+console.log(wg);
+wg.pop ();
+console.log(wg);
+wg.splice(2,1)
+console.log(wg);
+wg.unshift (`Luana`)
+console.log(wg)
+wg.shift ();
+console.log(wg);
+wg [2] = `Luana`;
+console.log(wg);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // -> colors
 let colors = [
     [
